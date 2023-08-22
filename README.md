@@ -32,7 +32,7 @@ Picture MetalLB as a friendly valet for your apps in Kubernetes. Normally, LoadB
 **MetalLB Architecture diagram :**
 
 <div style="text-align: left;">
-    <img src="cluster.jpg" alt="" style="border: 2px solid black; width: 600px; height: auto; margin-right: auto;">
+    <img src="MetalLBupdate.jpg" alt="" style="border: 2px solid black; width: 600px; height: auto; margin-right: auto;">
 </div>
 
 #### c . Definition of  Podman/Docker  :
@@ -322,3 +322,4 @@ MetalLB is now **set up** in your Kubernetes cluster running on Ubuntu. It's hel
 * [  Kubernetes Setup and Configuration ](https://www.linuxtechi.com/install-kubernetes-on-ubuntu-22-04/)    
 
 * [ Metallb Setup and Configuration ](https://www.itsupportwale.com/blog/how-to-install-and-configure-metallb-on-self-managed-kubernetes/)   
+
